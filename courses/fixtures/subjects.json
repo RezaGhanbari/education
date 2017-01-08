@@ -1,0 +1,90 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 1,
+  "fields": {
+    "title": "Programming",
+    "slug": "programming"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 2,
+  "fields": {
+    "title": "Mathematics",
+    "slug": "mathematics"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 3,
+  "fields": {
+    "title": "Music",
+    "slug": "music"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 4,
+  "fields": {
+    "title": "Semantic Web",
+    "slug": "semantic-web"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 5,
+  "fields": {
+    "title": "Machine Learning",
+    "slug": "machine-learning"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 6,
+  "fields": {
+    "title": "Calculus",
+    "slug": "calculus"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 7,
+  "fields": {
+    "title": "Computation theorem",
+    "slug": "computation-theorem"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 8,
+  "fields": {
+    "title": "Simulation",
+    "slug": "simulation"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 9,
+  "fields": {
+    "title": "Management",
+    "slug": "management"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 10,
+  "fields": {
+    "title": "Probability",
+    "slug": "probability"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 11,
+  "fields": {
+    "title": "Advanced Programming",
+    "slug": "advanced-programming"
+  }
+}
+]
